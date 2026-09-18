@@ -9,6 +9,8 @@ vanilla JavaScript (no build step, no dependencies).
 - `css/styles.css` — design system, layout, responsive rules
 - `js/script.js` — nav toggle, scroll-spy, theme toggle, reveal animations
 - `assets/Mohammad_Amiri_Resume.pdf` — downloadable resume
+- `job-search/` — personal IT job-search dashboard (Sacramento region);
+  see `job-search/README.md` for how it works
 
 ## Running locally
 
